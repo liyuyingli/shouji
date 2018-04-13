@@ -1,0 +1,135 @@
+body{
+	background: red;
+}
+.box{
+	width:206px;
+	height:417px;
+	background: white;
+	margin: 0 auto;
+	border-radius: 22px;
+				/* box-shadow: 10px;10px, */
+	box-shadow: 0 0 5px 2px #899096;
+	position: relative;
+				/* overflow: hidden; */
+}
+.box1{
+	width:206px;
+	height: 42px;
+	background: white;
+	border-top-left-radius: 22px;
+	border-top-right-radius: 22px;
+	/* overflow: hidden; */
+	overflow:hidden;
+	/* box-shadow: 10px 10px 80px white; */
+}
+.center{
+	width:191px;
+	height: 334px;
+	background: black;
+	border: 2px solid #9b9a9f;
+	margin: 0 auto;
+	/* border-top-left-radius: 11px; */
+	/* border-top-right-radius: 11px; */
+
+}
+.xiamian{
+	width:200px;
+	height: 31px; 
+	background: white;
+	border-bottom-left-radius: 22px;
+	border-bottom-right-radius: 22px;
+
+}
+.xiamian1{
+	width:42px;
+	height:19px; 
+	background:f0f0f0;
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 10px;
+	border: 2px solid #2a2f32;
+}
+.head{
+	width:71px;
+	height:6px;
+	margin-top:14px;
+	margin-left:65px;
+	/* position: relative;  */
+}
+.headleft{
+	width:7px;
+	height:4px;
+	background:black;
+	float: left;
+/* 	position:absolute; */
+	border-radius:2px;
+	margin-top: 1px;
+}
+.headzhong{
+	width:28px;
+	height:4px;
+	background:black;
+	float-left;	
+	position: absolute;
+	border-radius: 2px;
+	margin-left:22px;
+	margin-top:1px;
+}
+.headright{
+	width:5px;
+	height:5px;
+	background:black;
+	float:right;
+	border-radius:50%;
+}
+.youce{
+	width: 4px;
+	height: 80px;
+	background: 6f6625;
+	position:absolute;
+	top:57px;
+	right: -4px;
+}
+.youce1{
+	width: 4px;
+	height: 50px;
+	background:silver;
+	/* position:absolute; */
+	margin-bottom:10px;
+	border-radius: 2px;
+	
+}
+.youce2{
+	width: 4px;
+	height: 20px;
+	background: silver;
+	/* position:absolute; */
+	border-radius: 2px;
+	
+}
+.top{
+	width: 4px;
+	height: 25px;
+	background: silver;
+	font-size: 2px;
+	color: black;
+	text-align: center;
+	line-height: 25px;
+	border-radius: 2px;
+
+}
+.bottom{
+	width: 4px;
+	height: 25px;
+	background: silver;
+	font-size: 2px;
+	color: black;
+	text-align: center;
+	line-height: 25px;
+	border-radius: 2px;
+}
+
+
+
+
+
